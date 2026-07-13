@@ -105,12 +105,8 @@ python app.py
 - Decision Tree Accuracy
 - Random Forest Accuracy
 - Classification Report
-- Confusion Matrix
-- 1.  Confusion Matrix.png
-    
+- Confusion Matrix 
 - ROC Curve
-- 2.  Roc Curve.png
-
 ---
 
 ## Future Improvements
